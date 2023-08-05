@@ -2,18 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Michigan</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>University of Michigan</a>. Address. Contacts: yingxi@umich.edu. Moto. Etc.
 
 profile:
   align: right
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Ying Xiong (Research Fellow)</p>
-    <p>Climate and Space Sciences and Engineering</p>
-    <p>[yingxi@umich.edu](yingxi@umich.edu)</p>
-    <p>2455 Hayward St, Ann Arbor, MI 48109 </p>
-    #<p></p>
+    <p>Ying Xiong</p>
+    <p>Climate & Space Sciences & Engineering</p>
+    <p>University of Michigan</p>
+    <p>2543B-2455 Hayward St, Ann Arbor, MI 48109 </p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts

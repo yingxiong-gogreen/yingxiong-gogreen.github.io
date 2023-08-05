@@ -9,7 +9,7 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Contact: Dr. Ying Xiong<a href="mailto:yingxi@umich.edu">yingxi@umich.edu</a></p>
+    <p>Contact: Ying Xiong <a href="mailto:yingxi@umich.edu">yingxi@umich.edu</a></p>
     
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts

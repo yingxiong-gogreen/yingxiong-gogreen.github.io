@@ -9,9 +9,7 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Research Fellow at ClaSP</p>
-    <p>University of Michigan</p>
-    <p>yingxi@umich.edu</p>
+    <p>PI: Dr. Ying Xiong</p>
     
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -20,5 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 ## Welcome
 
-Dr. Ying Xiong works on a variety of topics related to atmospheric chemistry, air pollution, climate change, global health, and environmental justice. Broadly, his research focuses on understanding the spatiotemporal variability in the emissions of air pollutants (e.g., aerosols, ozone, VOCs) and greenhouse gases at locale, regional, and global scales. An underlying theme of his work is assessing the impacts of anthropogenic and natural activities on the carbon cycle in response to the warming environment and conversely, elucidating the feedbacks between carbon cycle, climate change, and human health.
+Dr. Ying Xiong works on a variety of topics related to atmospheric chemistry, air pollution, climate change, global health, and environmental justice. Broadly, his research focuses on understanding the spatiotemporal variability in the emissions of air pollutants (e.g., aerosols, ozone, VOCs) and greenhouse gases at locale, regional, and global scales. An underlying theme of his work is assessing the dynamic impacts of anthropogenic and natural activities on the carbon cycle in response to the warming environment and ultimatey elucidating the feedbacks between the carbon cycle, climate change, and human health.
+
+Dr. Ying Xiong is a Research Fellow in the Climate and Space Sciences and Engineering at the University of Michigan Ann Arbor. He is seeking a tenue-track faculty position at the level of _Assistant Professor_ in atmospheric science, environmental science, geology, etc.
 

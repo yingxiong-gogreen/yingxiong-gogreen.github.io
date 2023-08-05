@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Ying has offically started his Research Fellow journey with Prof. Eric Kort at the University of Michigan! Go Blue!
+Ying has offically started his Research Fellow journey with Prof. Eric Kort at the University of Michigan! Let's Go Blue!

@@ -3,44 +3,41 @@
   contents:
     - name: Full Name
       value: Ying Xiong
+    # - name: Date of Birth
+    #   value: 9th September 1879
     - name: Languages
-      value: Chinese (native), English (advanced)
-    - name: Download CV 
-      links:
-        - link: /assets/pdf/YingX_CV_July2023.pdf
-          name: CV PDF [ENGLISH]
+      value: English (advanced), Chinese (native)
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Environmental Engineering (Atmospheric Chemistry)
-      institution: University of Calgary  (<a href="https://www.ucalgary.ca/"><b>UC</b></a>)
-      department: Air Pollution and Environmental Monitoring Lab (<a href="https://live-ucalgary.ucalgary.ca/urban-air-pollution/urban-air-pollution/urban-air-pollution/urban-air-pollution/APEM%20Home"><b>APEM</b></a>)
-      location: Calgary, AB, Canada
+    - title: Ph.D. in Environmental Engineering
+      institution: University of Calgary, Calgary, Canada
       year: 2021
-    
-     - title: M.Sc. in Environmental Science and Engineering
-      institution: Wuhan University of Technology (<a href="http://english.whut.edu.cn/"><b>WUT</b></a>)
-      department: School of Resources and Environmental Engineering
-      location: Wuhan, China
-      year: 2017
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
+      description:
+        - Description 1.
+        - Description 2.
 
-    - title: B.S. in Environmental Science 
-      institution: Wuhan University of Technology (<a href="http://english.whut.edu.cn/"><b>WUT</b></a>)
-      department: School of Resources and Environmental Engineering
-      location: Wuhan, China
-      year: 2014
-
-- title: Research Apportionments
+- title: Experience
   type: time_table
   contents:
-    - title: Research Fellow
-      institution: Climate and Space Sciences and Engineering, University of Michigan
-      year: 2023 - present
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
-        - Data analysis and modeling of space-based and airborne measurements of greenhouse gases and air pollutants to better understand emissions magnitudes and processes.
-        - Preparation of technical papers and reports related to my research, collaboration with external groups and mentoring and supervising undergraduate and graduate students engaged in research activities..
-        - title: CYGNSS Project.
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.

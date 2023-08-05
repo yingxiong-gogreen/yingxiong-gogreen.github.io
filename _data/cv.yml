@@ -2,38 +2,41 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Ying Xiong
     - name: Languages
-      value: English, German
+      value: Chinese (native), English (advanced)
+    - name: Download CV 
+      links:
+        - link: /assets/pdf/YingX_CV_July2023.pdf
+          name: CV PDF [ENGLISH]
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Ph.D. in Environmental Engineering (Atmospheric Chemistry)
+      institution: University of Calgary  (<a href="https://www.ucalgary.ca/"><b>UC</b></a>)
+      department: Air Pollution and Environmental Monitoring Lab (<a href="https://live-ucalgary.ucalgary.ca/urban-air-pollution/urban-air-pollution/urban-air-pollution/urban-air-pollution/APEM%20Home"><b>APEM</b></a>)
+      location: Calgary, AB, Canada
+      year: 2021
+    
+     - title: M.Sc. in Environmental Science and Engineering
+      institution: Wuhan University of Technology (<a href="http://english.whut.edu.cn/"><b>WUT</b></a>)
+      department: School of Resources and Environmental Engineering
+      location: Wuhan, China
+      year: 2017
 
-- title: Experience
+    - title: B.S. in Environmental Science 
+      institution: Wuhan University of Technology (<a href="http://english.whut.edu.cn/"><b>WUT</b></a>)
+      department: School of Resources and Environmental Engineering
+      location: Wuhan, China
+      year: 2014
+
+- title: Research Apportionments
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Fellow
+      institution: Climate and Space Sciences and Engineering, University of Michigan
+      year: 2023 - present
       description:
         - Description 1.
         - Description 2.

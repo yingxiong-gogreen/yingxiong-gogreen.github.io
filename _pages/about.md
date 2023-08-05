@@ -11,7 +11,7 @@ profile:
   address: >
     <p>Research Fellow at ClaSP</p>
     <p>University of Michigan</p>
-    <p>yingxi (at) umich (dot) edu</p>
+    <p>yingxi@umich.edu</p>
     
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts

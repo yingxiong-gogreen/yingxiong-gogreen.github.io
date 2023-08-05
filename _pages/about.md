@@ -21,5 +21,5 @@ Dr. Ying Xiong works on a variety of topics related to atmospheric chemistry, ai
 Dr. Ying Xiong is a Research Fellow in the Climate and Space Sciences and Engineering at the University of Michigan Ann Arbor. He is seeking a tenue-track faculty position at the level of _Assistant Professor_ in atmospheric science, environmental science, geology, etc.
 
 ## contact
-Email: <a href="mailto:yingxi@umich.edu">yingxi@umich.edu</a></p>
+Email: <a href="mailto:yingxi@umich.edu">yingxi@umich.edu</a>
 Office: 2543B Space Research Building, 2455 Hayward St. Ann Arbor, MI 48109

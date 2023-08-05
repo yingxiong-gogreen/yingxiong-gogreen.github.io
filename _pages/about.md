@@ -9,12 +9,12 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>PI: Dr. Ying Xiong</p>
+    <p>Contact: Dr. Ying Xiong - <a href="mailto:yingxi@umich.edu">yingxi@umich.edu</a></p>
     
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+News: true  # includes a list of news items
+Latest_posts: true  # includes a list of the newest posts
+Selected_papers: true # includes a list of papers marked as "selected={true}"
+Social: true  # includes social icons at the bottom of the page
 ---
 ## Welcome
 

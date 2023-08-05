@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Michigan</a>. CLaSP. Contact: yingxi@umich.edu
+subtitle: <a href='#'>University of Michigan</a>. CLaSP. yingxi@umich.edu
 
 profile:
   align: right

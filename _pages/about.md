@@ -9,14 +9,14 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Contact: Dr. Ying Xiong - <a href="mailto:yingxi@umich.edu">yingxi@umich.edu</a></p>
+    <p>Contact: Dr. Ying Xiong<a href="mailto:yingxi@umich.edu">yingxi@umich.edu</a></p>
     
-News: true  # includes a list of news items
-Latest_posts: true  # includes a list of the newest posts
-Selected_papers: true # includes a list of papers marked as "selected={true}"
-Social: true  # includes social icons at the bottom of the page
+news: true  # includes a list of news items
+latest_posts: true  # includes a list of the newest posts
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
-## Welcome
+## welcome
 
 Dr. Ying Xiong works on a variety of topics related to atmospheric chemistry, air pollution, climate change, global health, and environmental justice. Broadly, his research focuses on understanding the spatiotemporal variability in the emissions of air pollutants (e.g., aerosols, ozone, VOCs) and greenhouse gases at locale, regional, and global scales. An underlying theme of his work is assessing the dynamic impacts of anthropogenic and natural activities on the carbon cycle in response to the warming environment and ultimatey elucidating the feedbacks between the carbon cycle, climate change, and human health.
 

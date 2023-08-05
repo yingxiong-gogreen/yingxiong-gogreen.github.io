@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Michigan</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>University of Michigan</a>. CLaSP. [Email](yingxi@umich.edu)
 
 profile:
   align: right
@@ -10,16 +10,17 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Ying Xiong</p>
-    <p>Climate & Space Sciences & Engineering</p>
+    <p>Climate&Space Sciences&Engineering</p>
     <p>University of Michigan</p>
-    <p>2543B-2455 Hayward St, Ann Arbor, MI 48109 </p>
+    <p>2543B CSRB Building</p>
+    <p>2455 Hayward St, Ann Arbor, MI 48109</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
+##Welcome##
 Dr. Ying Xiong works on a variety of topics related to atmospheric chemistry, air pollution, climate change, chemical transport model, global health, and environmental justice. Broadly, his research focuses on understanding the spatiotemporal variability in the emission magnitude of aerosol and greenhouse gases at locale, regional, and global scales. An underlying theme of his work is assessing the impacts of variations in anthropogenic and natural sources on the carbon cycle and, ultimately, elucidating the interactions between atmospheric chemistry, climate change, and human health.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

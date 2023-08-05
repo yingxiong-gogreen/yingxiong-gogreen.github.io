@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Ying submitted six abstracts to this year's AGU Fall Meeting with two of them being from CYGNSS project ! :sparkles: :smile:
+Ying submitted six abstracts to this year's AGU Fall Meeting with two of them stemming from CYGNSS project ! :sparkles: :smile:

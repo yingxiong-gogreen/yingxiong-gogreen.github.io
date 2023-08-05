@@ -6,12 +6,14 @@ subtitle: <a href='#'>University of Michigan</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>2543B Climate and Space Sciences and Engineering</p>
-    <p>2455 Hayward St </p>
-    <p>Ann Arbor, MI 48109</p>
+    <p>Ying Xiong (Research Fellow)</p>
+    <p>Climate and Space Sciences and Engineering</p>
+    <p>[yingxi@umich.edu](yingxi@umich.edu)</p>
+    <p>2455 Hayward St, Ann Arbor, MI 48109 </p>
+    #<p></p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
